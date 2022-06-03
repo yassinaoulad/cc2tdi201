@@ -40,6 +40,8 @@ public class Societe {
     private int Nombre_employe;
 
 
+
+
     public Societe() {
     }
 
